@@ -32,4 +32,4 @@ I'm a Computer Science student at the University of Alberta with a strong founda
 - 📧 khymanad@gmail.com  
 ---
 
-I’m always open to learning, collaborating, and contributing to meaningful tech. Let’s build something impactful!
+I’m always open to learning, collaborating, and contributing to meaningful tech.
