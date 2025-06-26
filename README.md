@@ -2,7 +2,7 @@
 
 🛠️ Technical Skills:
 
-Languages & Frameworks: JavaScript, Python, C#, HTML/CSS, React, Django, ASP.NET
+Languages & Frameworks: JavaScript, Python, C#, HTML/CSS, React, Django, ASP.NET Core
 
 Tools & Platforms: Git, Heroku, Android Studio, Firebase, SQL Server
 
