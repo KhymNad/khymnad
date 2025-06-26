@@ -1,6 +1,6 @@
 # Hi, I'm Khym Nad 👋
 
-I'm a Computer Science student at the University of Alberta with a strong foundation in full-stack development and a passion for building user-focused, scalable applications. I enjoy working across the stack—from designing responsive frontends in React to building secure RESTful APIs with Django and Firebase.
+I'm a Computer Science student at the University of Alberta with a strong foundation in full-stack development and a passion for creating user-centric, scalable applications. I enjoy working across the stack—from crafting responsive frontends to developing secure and efficient backends.
 
 ## 💡 Featured Projects
 
@@ -16,9 +16,9 @@ I'm a Computer Science student at the University of Alberta with a strong founda
 ## 🧠 Skills & Technologies
 
 **Languages:** JavaScript, Python, Java, C#, SQL, HTML/CSS  
-**Frameworks:** React, Django, Node.js, ASP.NET MVC  
-**Tools:** Git, GitHub, Heroku, Firebase, Android Studio  
-**Databases:** PostgreSQL, Firebase, MySQL, Microsoft SQL Server
+**Frameworks:** React, Django, Node.js, ASP.NET MVC, Blazor
+**Tools:** Git, GitHub, Android Studio, Visual Studio
+**Databases:** PostgreSQL, Firebase, Heroku, MySQL, Microsoft SQL Server
 
 ## 📚 Certifications
 
@@ -30,9 +30,6 @@ I'm a Computer Science student at the University of Alberta with a strong founda
 ## 📫 Get in Touch
 
 - 📧 khymanad@gmail.com  
-- 🌐 [Portfolio Website](https://khymnad.github.io/Portfolio/)  
-- 💼 [LinkedIn](https://www.linkedin.com) *(replace with actual profile)*
-
 ---
 
 I’m always open to learning, collaborating, and contributing to meaningful tech. Let’s build something impactful!
