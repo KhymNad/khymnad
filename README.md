@@ -49,10 +49,16 @@ I’m passionate about building scalable, user-focused web applications that del
 <table>
   <tr>
     <td align="center" style="padding: 6px 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/><br>Git
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20"/><br>VS Code
+    </td>
+    <td align="center" style="padding: 6px 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="20"/><br>Visual Studio
     </td>
     <td align="center" style="padding: 6px 10px;">
       <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20"/><br>GitHub
+    </td>
+    <td align="center" style="padding: 6px 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/><br>Git
     </td>
     <td align="center" style="padding: 6px 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20"/><br>PostgreSQL
@@ -64,19 +70,13 @@ I’m passionate about building scalable, user-focused web applications that del
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="20"/><br>Firebase
     </td>
     <td align="center" style="padding: 6px 10px;">
+      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="20"/><br>Heroku
+    </td>
+    <td align="center" style="padding: 6px 10px;">
       <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="20"/><br>Vercel
     </td>
     <td align="center" style="padding: 6px 10px;">
       Render
-    </td>
-    <td align="center" style="padding: 6px 10px;">
-      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="20"/><br>Heroku
-    </td>
-    <td align="center" style="padding: 6px 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="20"/><br>Visual Studio
-    </td>
-    <td align="center" style="padding: 6px 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20"/><br>VS Code
     </td>
   </tr>
 </table>
