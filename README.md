@@ -4,8 +4,6 @@
 
 I’m passionate about building scalable, user-focused web applications that deliver seamless and intuitive experiences. With a strong foundation in full-stack development, I enjoy turning complex problems into simple, elegant solutions across the entire software lifecycle.
 
----
-
 ## 🛠️ Technical Skills
 
 ### | <span style="font-size: 1.3em;">Languages & Frameworks</span>
@@ -48,8 +46,6 @@ I’m passionate about building scalable, user-focused web applications that del
   </tr>
 </table>
 
----
-
 ### | <span style="font-size: 1.3em;">Tools & Platforms</span>
 
 <table>
@@ -86,8 +82,6 @@ I’m passionate about building scalable, user-focused web applications that del
     </td>
   </tr>
 </table>
-
----
 
 ## 🔍 Current Focus
 
