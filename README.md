@@ -80,6 +80,3 @@ I’m passionate about building scalable, user-focused web applications that del
     </td>
   </tr>
 </table>
-
-### Current Focus
-I’m focused on deepening my expertise in C#, .NET, ASP.NET Core, and React to deliver high-quality, scalable applications that meet modern industry standards.
