@@ -13,7 +13,3 @@ JavaScript, Python, C#, SQL, HTML5, CSS3, React, Django, ASP.NET Core, .NET Core
 ### <u><strong>Tools & Platforms</strong></u>
 
 Git, GitHub, PostgreSQL, MySQL, Firebase, Vercel, Render, Heroku, Visual Studio, VS Code
-
-## 🔍 Current Focus
-
-I’m focused on deepening my expertise in C#, .NET, ASP.NET Core, and React to deliver high-quality, scalable applications that meet modern industry standards.
