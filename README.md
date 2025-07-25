@@ -71,12 +71,12 @@ I’m passionate about building scalable, user-focused web applications that del
     </td>
     <td align="center" style="padding: 6px 10px;">
       <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="20"/><br>Heroku
+    </td>    
+    <td align="center" style="padding: 6px 10px;">
+      <img src="./render_logo.png" width="20"/><br>Render
     </td>
     <td align="center" style="padding: 6px 10px;">
-      <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="20"/><br>Vercel
-    </td>
-    <td align="center" style="padding: 6px 10px;">
-      Render
+      <img src="./vercel_logo.png" width="20"/><br>Vercel
     </td>
   </tr>
 </table>
