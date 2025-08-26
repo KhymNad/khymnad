@@ -39,11 +39,11 @@ I’m passionate about building scalable, user-focused web applications that del
 
 ### | Featured Projects  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhymNad&repo=CABOA&theme=radical)](https://github.com/KhymNad/CABOA) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhymNad&repo=resume-matcher-api&theme=radical)](https://github.com/KhymNad/resume-matcher-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhymNad&repo=CABOA&bg_color=1F1F1F&title_color=00ae4d&text_color=ffffff&icon_color=FFD700)](https://github.com/KhymNad/CABOA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhymNad&repo=resume-matcher-api&bg_color=1F1F1F&title_color=2563eb&text_color=ffffff&icon_color=FFD700)](https://github.com/KhymNad/resume-matcher-api)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhymNad&repo=portfolio-react&theme=radical)](https://github.com/KhymNad/portfolio-react)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhymNad&repo=resume-matcher-client&theme=radical)](https://github.com/KhymNad/resume-matcher-client) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhymNad&repo=portfolio-react&bg_color=1F1F1F&title_color=ff4d4d&text_color=ffffff&icon_color=FFD700)](https://github.com/KhymNad/portfolio-react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhymNad&repo=resume-matcher-client&bg_color=1F1F1F&title_color=2563eb&text_color=ffffff&icon_color=FFD700)](https://github.com/KhymNad/resume-matcher-client)
 
 ---
 
