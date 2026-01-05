@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Khym Nad  
 
-**Full-Stack Developer | Computer Science Student @ University of Alberta**  
+**Full-Stack Developer | Computer Science Grad @ University of Alberta**  
 
 I’m passionate about building scalable, user-focused web applications that deliver seamless and intuitive experiences. With a strong foundation in full-stack development, I enjoy turning complex problems into simple, elegant solutions.   
 
